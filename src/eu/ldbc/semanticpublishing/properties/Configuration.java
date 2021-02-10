@@ -69,6 +69,7 @@ public class Configuration {
 	public static final String INTERRUPT_SIGNAL_LOCATION = "interruptSignalLocation";
 	public static final String CURRENT_RATE_REPORT_PERIOD_SECONDS = "currentRateReportPeriodSeconds";
 	public static final String SAVE_DETAILED_QUERY_LOGS = "saveDetailedQueryLogs";
+	public static final String RUN_QUERIES_IN_TRANSACTION = "runQueriesInTransaction";
 	public static final String REPORT_INTERVAL_SECONDS = "reportIntervalSeconds";
 	
 	/**
